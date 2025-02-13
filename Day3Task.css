@@ -1,0 +1,87 @@
+.parent{
+display: flex;
+flex-direction: row;
+margin-left: 200px;
+}
+#one{
+background-color: antiquewhite;
+border-radius: 5px;
+border-bottom: 2px;
+margin: 25px;
+justify-content: center;
+align-items: center;
+
+}
+#two{
+    background-color: azure;
+    border-radius: 5px;
+    border-bottom: 2px;
+    margin: 25px;
+    justify-content: center;
+    align-items: center;
+}
+#three{
+    background-color: lavenderblush;
+    border-radius: 5px;
+    border-spacing: 25%;
+    margin: 25px;
+    
+}
+.uniqe{
+    display: flex;
+    flex-direction: row;
+    margin-left: 200px;
+}
+    
+}
+#four{
+    background-color: aquamarine;
+    border-radius: 25px;
+    margin: 25px;
+    border-spacing: 25%;
+  
+}
+#five{
+    background-color: azure;
+    border-radius: 25px;
+    margin: 25px;
+    border-spacing: 25%;
+    
+}
+#six{
+    background-color: floralwhite;
+    border-radius: 25px;
+    margin: 25px;
+    border-spacing: 25%;
+
+}
+.simple{
+    display: flex;
+     flex-direction: row;
+     margin-left: 200px;
+}
+}
+#seven{
+    background-color: rgb(176, 87, 24);
+    border-radius: 25px;
+    margin: 25px;
+    border-spacing: 25%;
+   
+
+}
+#eight{
+    background-color: blanchedalmond;
+    border-radius: 25px;
+    margin: 25px;
+    border-spacing: 25%;
+  
+   
+}
+#nine{
+    background-color: lavender;
+    border-radius: 25px;
+    margin: 25px;
+
+   
+
+}
